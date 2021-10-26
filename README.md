@@ -1,2 +1,2 @@
-# lihua3712.gihub.io
+# lihua3712.github.io
 个人主页
